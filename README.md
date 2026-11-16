@@ -62,7 +62,7 @@ cd dashboard
 streamlit run dashboard.py
 ```
 
-Dashboard akan otomatis terbuka di peramban (*browser*) pada alamat `http://localhost:8501`.
+Dashboard akan otomatis terbuka di peramban (*browser*) pada alamat `https://capital-bikeshare-asah.streamlit.app/`.
 
 # AI Attribution / Acknowledegemnts:
 **Ide & Konsep: Saya menggunakan ChatGPT untuk brainstorm bagian spesifik yang mungkin untuk diekstrak polanya**

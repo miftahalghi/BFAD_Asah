@@ -1,3 +1,1 @@
-http://localhost:8501
-# Catatan: Setelah Anda melakukan deploy ke Streamlit Community Cloud (https://share.streamlit.io/),
-# silakan ganti baris URL di atas dengan tautan publik Streamlit Cloud Anda (contoh: https://nama-aplikasi-anda.streamlit.app).
+https://capital-bikeshare-asah.streamlit.app/
